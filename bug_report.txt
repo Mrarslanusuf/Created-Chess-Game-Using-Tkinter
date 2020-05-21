@@ -1,0 +1,11 @@
+----- 04/06/19 08:54:09 -----
+Traceback (most recent call last):
+  File "/Users/bibek/Downloads/SimpleChess_GamePYTHON/chess game simple/gui.py", line 166, in play_as
+    CLOCK.tick(CLOCK_TICK)
+KeyboardInterrupt
+
+Playing as WHITE:
+	
+	rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+-----------------------------
+
